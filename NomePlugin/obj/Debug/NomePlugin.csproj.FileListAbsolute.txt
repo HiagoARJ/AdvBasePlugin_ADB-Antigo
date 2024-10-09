@@ -1,0 +1,8 @@
+D:\Advanced-Plugins\Plugin\NomePlugin\bin\Debug\NomePlugin.dll
+D:\Advanced-Plugins\Plugin\NomePlugin\bin\Debug\NomePlugin.pdb
+D:\Advanced-Plugins\Plugin\NomePlugin\obj\Debug\NomePlugin.csproj.AssemblyReference.cache
+D:\Advanced-Plugins\Plugin\NomePlugin\obj\Debug\NomePlugin.csproj.CoreCompileInputs.cache
+D:\Advanced-Plugins\Plugin\NomePlugin\obj\Debug\NomePlugin.csproj.Up2Date
+D:\Advanced-Plugins\Plugin\NomePlugin\obj\Debug\NomePlugin.dll
+D:\Advanced-Plugins\Plugin\NomePlugin\obj\Debug\NomePlugin.pdb
+D:\Advanced-Plugins\Plugin\NomePlugin\bin\Debug\Newtonsoft.Json.dll
